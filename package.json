@@ -18,12 +18,10 @@
     "chai-immutable": "^1.5.3",
     "mocha": "^2.4.5"
   },
-  "babel": {
-    "presets": [
-      "es2015"
-    ]
-  },
   "dependencies": {
     "immutable": "^3.7.6"
+  },
+  "babel": {
+    "presets": ["es2015"]
   }
 }
